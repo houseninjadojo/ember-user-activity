@@ -6686,10 +6686,9 @@ ember-cached-decorator-polyfill@^0.1.4:
     ember-cli-babel "^7.21.0"
     ember-cli-babel-plugin-helpers "^1.1.1"
 
-ember-classic-decorator@^2.0.1:
+ember-classic-decorator@boris-petrov/ember-classic-decorator#fix-using-global-ember:
   version "2.0.1"
-  resolved "https://registry.yarnpkg.com/ember-classic-decorator/-/ember-classic-decorator-2.0.1.tgz#3ea29890959ff7ed0d0fa77bc49fca7142c586af"
-  integrity sha512-WQH0tY3vZ25fpcqt9xIPnIH3GzXylPFoLmauQFpNZLPtb6/jGuH8EzpFtAjhzakX+zSJb4/36iTaF5QA7aLxow==
+  resolved "https://codeload.github.com/boris-petrov/ember-classic-decorator/tar.gz/7419f5bb1f2852e8e8b3bc9242c6868a6157ec82"
   dependencies:
     "@embroider/macros" "^0.29.0"
     babel-plugin-filter-imports "^3.0.0"
@@ -6745,7 +6744,7 @@ ember-cli-addon-docs@^4.2.1:
     ember-fetch "^8.1.1"
     ember-get-config "^0.5.0"
     ember-keyboard "^7.0.0-beta.0"
-    ember-modal-dialog "github:yapplabs/ember-modal-dialog#76b74f1c4b791fed5b084836c3b1c8c54836ac71"
+    ember-modal-dialog yapplabs/ember-modal-dialog#76b74f1c4b791fed5b084836c3b1c8c54836ac71
     ember-responsive "^4.0.2"
     ember-router-generator "^2.0.0"
     ember-router-scroll "^4.1.2"
@@ -7473,7 +7472,6 @@ ember-maybe-import-regenerator@^1.0.0:
 
 "ember-modal-dialog@github:yapplabs/ember-modal-dialog#76b74f1c4b791fed5b084836c3b1c8c54836ac71":
   version "4.0.0-alpha.1"
-  uid "76b74f1c4b791fed5b084836c3b1c8c54836ac71"
   resolved "https://codeload.github.com/yapplabs/ember-modal-dialog/tar.gz/76b74f1c4b791fed5b084836c3b1c8c54836ac71"
   dependencies:
     "@embroider/macros" "^0.43.5"

@@ -30,7 +30,7 @@
     "release": "release-it"
   },
   "dependencies": {
-    "ember-classic-decorator": "boris-petrov/ember-classic-decorator#fix-using-global-ember",
+    "ember-classic-decorator": "^3.0.0",
     "ember-cli-babel": "^7.26.11"
   },
   "devDependencies": {

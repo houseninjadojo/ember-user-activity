@@ -25,7 +25,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```bash
-ember install ember-user-activity
+ember install @houseninja/ember-user-activity
 ```
 
 

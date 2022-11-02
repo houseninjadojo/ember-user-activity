@@ -6763,10 +6763,10 @@ ember-cached-decorator-polyfill@^0.1.4:
     ember-cli-babel "^7.21.0"
     ember-cli-babel-plugin-helpers "^1.1.1"
 
-ember-classic-decorator@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/ember-classic-decorator/-/ember-classic-decorator-3.0.0.tgz#9e31c50c40c060d23d15653cdf260f78b6cdef2a"
-  integrity sha512-nCCO3d06c27l1vj4P54xLYk8AwrzSlFFGX8MZmfFl/xZ9LDY0V8OphAmO9PsaYEbBkjmtUy+h9vG2Lg9qVij+g==
+ember-classic-decorator@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/ember-classic-decorator/-/ember-classic-decorator-3.0.1.tgz#13acf53e5fdb1f867919765853eb3592380ed1ef"
+  integrity sha512-IoocHPX1cY93Sma7VeDGbF0M1+TkBWDJLus+RD01902eD+KHEL2+diwM+iayCyO+1/xaUzdzNGh35J+i+TCxoA==
   dependencies:
     "@embroider/macros" "^1.0.0"
     babel-plugin-filter-imports "^4.0.0"
@@ -7564,7 +7564,7 @@ ember-maybe-import-regenerator@^1.0.0:
     ember-cli-babel "^7.26.6"
     regenerator-runtime "^0.13.2"
 
-"ember-modal-dialog@github:yapplabs/ember-modal-dialog#31ffee4c657ebe96b1f80adbc39c0339b52236e2":
+ember-modal-dialog@yapplabs/ember-modal-dialog#31ffee4c657ebe96b1f80adbc39c0339b52236e2:
   version "4.0.0-alpha.1"
   resolved "https://codeload.github.com/yapplabs/ember-modal-dialog/tar.gz/31ffee4c657ebe96b1f80adbc39c0339b52236e2"
   dependencies:
